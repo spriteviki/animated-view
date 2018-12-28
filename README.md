@@ -1,6 +1,6 @@
 # Animated View
 
-A CircularAnimated style drawable compatible with 3.0
+A circular animated style dawable compatible with 3.0
 
 
 This is how it looks in linear determinate mode:
